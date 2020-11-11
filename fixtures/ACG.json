@@ -1,0 +1,122 @@
+{
+    "vehicles": [
+        {
+            "id": "15",
+            "title": "Emil",
+            "description": "Emil",
+            "type": "S",
+            "capacity": {
+                "passengers": 4,
+                "luggage": 4,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "2",
+            "title": "Na nadica jarisot",
+            "description": "Na nadica jarisot e bolje od drugi jarisi",
+            "type": "R5",
+            "capacity": {
+                "passengers": 5,
+                "luggage": 5,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "14",
+            "title": "Wheelchair",
+            "description": "Wheelchair accessible",
+            "type": "W",
+            "capacity": {
+                "passengers": 3,
+                "luggage": 2,
+                "handLuggage": 1
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "3",
+            "title": "Regular 6 Seater",
+            "description": "Our large carrier for more people/luggage",
+            "type": "R6",
+            "capacity": {
+                "passengers": 6,
+                "luggage": 2,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "4",
+            "title": "Regular 7 Seater",
+            "description": "Regular 7 seater",
+            "type": "R7",
+            "capacity": {
+                "passengers": 7,
+                "luggage": 7,
+                "handLuggage": 3
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "78",
+            "title": "Tesla S",
+            "description": "Go green with our luxury Tesla Model S",
+            "type": "T",
+            "capacity": {
+                "passengers": 4,
+                "luggage": 2,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "79",
+            "title": "Tesla X",
+            "description": "Go green with our luxury Tesla Model X",
+            "type": "Z",
+            "capacity": {
+                "passengers": 4,
+                "luggage": 3,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },
+        {
+            "id": "79",
+            "title": "Tesla X",
+            "description": "Go green with our luxury Tesla Model X",
+            "type": "Z",
+            "capacity": {
+                "passengers": 4,
+                "luggage": 3,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        },{
+            "id": "79",
+            "title": "Tesla X",
+            "description": "Go green with our luxury Tesla Model X",
+            "type": "Z",
+            "capacity": {
+                "passengers": 4,
+                "luggage": 3,
+                "handLuggage": 2
+            },
+            "price": 30.1,
+            "currency": "GBP"
+        }
+        
+    ],
+    "quoteId": ""
+}
